@@ -8,4 +8,4 @@ int main() {
     printf("%s %d",a,b);
     return 0;
 }
-// Update by AlexPonomarevS
+
